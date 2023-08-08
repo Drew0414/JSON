@@ -1,6 +1,7 @@
 {
-	"name":"Martynchik Andrei Valer'evich",
-	"age":"32",
-	"number of pets":0,
+	"NS"{"name":"Andrei"
+		"surname":"Martynchik"},
+	"age":32,
+	"pets":0,
 	"salary":1000000
 }
