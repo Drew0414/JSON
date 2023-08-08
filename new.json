@@ -1,6 +1,6 @@
 {
-	"NS"{"name":"Andrei"
-		"surname":"Martynchik"},
+	"NS":{"name":"Andrei",
+	      "surname":"Martynchik"},
 	"age":32,
 	"pets":0,
 	"salary":1000000
